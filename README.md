@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Divyamani06
+- 👋 Hi, I’m @Divyasubramanian
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning nodejs with mysql
 - 💞️ I’m looking to collaborate on 
